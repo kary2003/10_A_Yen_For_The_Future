@@ -4,19 +4,26 @@
 ![image](https://user-images.githubusercontent.com/70820754/99487818-5fef1e80-2924-11eb-9f92-463759abfe5e.png)
 - - -
 ### Time Series Analysis
-    * Return forecasting
-        * plot settle price
-        * look for patterns
-    * Hodrick-Prescott Filter
-        * Decompose Settle data into trend & noise
-        * plot settle price vs trend
-        * plot settle noise
-    * Use the ARMA model to forecast Returns
-        * ARMA Summary
-        * 5 day returns forecast plot
-    * Use ARIMA model to forecast Settle Price
-        * ARIMA Summary
-        * 5 day futures price forecast
+
+* Return forecasting
+   * plot settle price
+   * look for patterns
+   
+* Hodrick-Prescott Filter
+    
+   * Decompose Settle data into trend & noise
+   * plot settle price vs trend
+   * plot settle noise
+
+* Use the ARMA model to forecast Returns
+    
+   * ARMA Summary
+   * 5 day returns forecast plot
+         
+* Use ARIMA model to forecast Settle Price
+    
+   * ARIMA Summary
+   * 5 day futures price forecast
     
 ### Files
 
