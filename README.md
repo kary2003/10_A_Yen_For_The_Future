@@ -24,7 +24,9 @@
     
    * ARIMA Summary
    * 5 day futures price forecast
-    
+   
+---
+
 ### Files
 
 [Time-Series Notebook](https://github.com/kary2003/10_A_Yen_For_The_Future/blob/main/time_series_analysis.ipynb)
