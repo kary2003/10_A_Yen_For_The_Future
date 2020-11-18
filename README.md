@@ -27,6 +27,18 @@
    
 ---
 
+### Regression Analysis
+
+* Build Sklearn Model to predict yen futures returns
+  * 
+* Linear Regression Model
+  * Make predictions
+* Metrics
+  * out-of-sample performance
+  * in-sample performance
+  
+---
+
 ### Files
 
 [Time-Series Notebook](https://github.com/kary2003/10_A_Yen_For_The_Future/blob/main/time_series_analysis.ipynb)
